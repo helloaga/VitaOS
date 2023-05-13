@@ -1,0 +1,20 @@
+VSBG0001 - 2023/5/3
+	Verion         1.0.3(1031)
+	Level          Bug_0
+	Description    When the user login as a guest, there will not print the tips about "help".
+	Position       Line 
+	Solution       Yes
+VSBG0002 - 2023/5/7
+	Verion         1.1.0(1069)
+	Level          Bug_1
+	Description    If you type in "?" in main program, the information will be full of the screen.
+	Position       Unknown
+	Solution       Yes
+VSBG0003 - 2023/5/13
+	Verion         1.1.2(1093)
+	Level          Bug_0.5
+	Description    It will not print "Illegal Commands" when code is wrong.
+	Position       Function Calc
+	Solution       No
+
+
